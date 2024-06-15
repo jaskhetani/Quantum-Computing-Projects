@@ -29,11 +29,7 @@ def Z(intensity=100, oldx=0, oldy=0, oldz=0):
 
 # H Gate: |0〉to |+〉(xz-axis rotation)
 def H(intensity=100, oldx=0, oldy=0, oldz=0):
-    x, y, z, theta, phi = oldx, oldy, oldz, # Working on this gate...
-    x += np.sin(theta) * np.cos(phi)
-    y += np.sin(theta) * np.sin(phi)
-    z += np.cos(theta)
-    return x, y, z
+    return oldz, oldy, oldx
 
 # S Gate: |+〉to |+i〉(z-axis rotation)
 def S(intensity=100, oldx=0, oldy=0, oldz=0):
