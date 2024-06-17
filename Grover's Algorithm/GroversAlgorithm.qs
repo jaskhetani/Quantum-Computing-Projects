@@ -2,7 +2,7 @@
 // Concept Implemented: Grover's Algorithm
 // Still working on this...
 
-namespace GraverAlgorithm {
+namespace GroversAlgorithm {
     open Microsoft.Quantum.Convert;
     open Microsoft.Quantum.Intrinsic;
     open Microsoft.Quantum.Math;
