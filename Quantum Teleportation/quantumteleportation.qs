@@ -1,6 +1,5 @@
 // Created by: Jas Khetani
-// Concept Implemented: Grover's Algorithm
-// Still working on this...
+// Concept Implemented: Quantum Teleportation (Coming soon...)
 
 namespace QuantumFridaysforJune2024 {
     open Microsoft.Quantum.Convert;
@@ -8,8 +7,10 @@ namespace QuantumFridaysforJune2024 {
     open Microsoft.Quantum.Math;
 
     @EntryPoint()
-    operation GroversAlgorithm(): Unit {
-        use grover = Qubit();
+    operation QuantumTeleporter(): Unit {
+        use alice = Qubit();
+        use control = Qubit();
+        use bob = Qubit();
     }
 
 }
