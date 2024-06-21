@@ -10,4 +10,8 @@ This is the first project that I started with as a quantum programmer! A fine bl
 #### [2. Bloch Sphere 14/Jun/2024](https://www.linkedin.com/posts/jas-khetani_quantumcomputing-blochsphere-qubitsimulation-activity-7207483469151485953-IfyA?utm_source=share&utm_medium=member_desktop)
 This project takes us deeper into the world of quantum computing and tackles both the mathematics and conceptual aspects of quantum computing in general. A single-qubit circuit from last time is expanded into a visualization of the same but includes all major gates applicable for a single qubit. This kind of simulation tests a programmer's ability to think outside the box and into a sphere of probabilities! An exciting adventure of Python code, Matplotlib visualization, and Quantum fun !!!
 
+#### [3. Quantum Teleportation 21/Jun/2024](https://www.linkedin.com/posts/jas-khetani_quantumcomputing-quantumteleportation-ibm-activity-7209990904986640384-ZJKe?utm_source=share&utm_medium=member_desktop)
+
+(Description coming soon...)
+
 # More Projects Coming Soon...
