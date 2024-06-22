@@ -2,6 +2,7 @@
 // Concept Implemented: Quantum True Randomness (Single-Qubit Gates)
 
 namespace QuantumFridaysforJune2024 {
+    open Microsoft.Quantum.Canon;
     open Microsoft.Quantum.Convert;
     open Microsoft.Quantum.Intrinsic;
     open Microsoft.Quantum.Math;
