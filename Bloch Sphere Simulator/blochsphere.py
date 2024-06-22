@@ -1,5 +1,6 @@
 # Created by: Jas Khetani
 # Concept Implemented: Bloch Sphere for Single-Qubit Circuit Visualization
+# Tech Stack used: MatPlotLib, Numpy
 
 import numpy as np
 import matplotlib.pyplot as plt

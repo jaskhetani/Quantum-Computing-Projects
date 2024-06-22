@@ -1,5 +1,6 @@
 // Created by: Jas Khetani
-// Concept Implemented: Quantum Teleportation (Q#)
+// Concept Implemented: Quantum Teleportation
+// Tech Stack used: Q#
 
 namespace QuantumFridaysforJune2024 {
     open Microsoft.Quantum.Canon;

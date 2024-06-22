@@ -1,5 +1,6 @@
 # Created by: Jas Khetani
-# Concept Implemented: Quantum Teleportation (Qiskit)
+# Concept Implemented: Quantum Teleportation
+# Tech Stack used: Qiskit, Numpy
 
 from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit
 from numpy import pi

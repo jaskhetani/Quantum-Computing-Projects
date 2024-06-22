@@ -1,5 +1,6 @@
 // Created by: Jas Khetani
-// Concept Implemented: Grover's Algorithm (Q#)
+// Concept Implemented: Grover's Algorithm
+// Tech Stack used: Q#
 // Still working on this...
 
 namespace QuantumFridaysforJune2024 {

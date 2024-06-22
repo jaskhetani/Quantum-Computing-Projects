@@ -1,5 +1,6 @@
 // Created by: Jas Khetani
 // Concept Implemented: Quantum True Randomness (Single-Qubit Gates)
+// Tech Stack used: Q#
 
 namespace QuantumFridaysforJune2024 {
     open Microsoft.Quantum.Canon;

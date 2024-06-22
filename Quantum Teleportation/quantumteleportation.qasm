@@ -1,5 +1,6 @@
 // Created by: Jas Khetani
-// Concept Implemented: Quantum Teleportation (QASM)
+// Concept Implemented: Quantum Teleportation
+// Tech Stack used: OpenQASM
 
 OPENQASM 2.0;
 include "qelib1.inc";
