@@ -14,6 +14,9 @@ The Bloch Sphere project provides a visual and mathematical exploration of qubit
 #### [3. Quantum Teleportation 21/Jun/2024](https://www.linkedin.com/posts/jas-khetani_quantumcomputing-quantumteleportation-ibm-activity-7209990904986640384-ZJKe?utm_source=share&utm_medium=member_desktop)
 Our Quantum Teleportation project marks the transition to multi-qubit circuits, utilizing entanglement and Bell states. Implemented in IBM Composer, and also written in OpenQASM, Q#, and Qiskit, this project showcases controlled gates like CNOT and CZ, emphasizing their simplicity and significance. This first foray into multi-qubit systems not only illustrates the principle that information cannot travel faster than light but also dispels common myths in quantum computing. Successfully completing this project provides a solid understanding of quantum entanglement and lays the groundwork for further research in this emerging field.
 
+#### [4. Grover's and Shor's Algorithm 28/Jun/2024](https://www.linkedin.com/posts/jas-khetani_quantumcomputing-groversalgorithm-shorsalgorithm-activity-7212601504053047297-eGVo?utm_source=share&utm_medium=member_desktop)
+Description coming soon...
+
 #### More Projects Coming Soon...
 
 ### Repository Purpose and Future Plans
