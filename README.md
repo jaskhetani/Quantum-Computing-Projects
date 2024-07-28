@@ -2,7 +2,7 @@
 
 Welcome to the Quantum Computing Projects repository, a comprehensive collection of my explorations and implementations in the exciting field of quantum computing. This repository is designed to document my journey from foundational concepts to advanced quantum algorithms, serving as both a personal log and a resource for fellow learners and enthusiasts.
 
-### Current Campaign: Quantum Fridays (June 2024)
+### Quantum Fridays (June 2024)
 This ongoing campaign aims to introduce and explain key quantum computing concepts through hands-on projects. Each Friday, a new project is added, ranging from single-qubit experiments to multi-qubit circuits. Here are the highlights so far:
 
 #### [1. True Coin Flipper 07/Jun/2024](https://www.linkedin.com/posts/jas-khetani_quantumcomputing-classicaltoquantum-truerandomness-activity-7204121561799217152-8LJP?utm_source=share&utm_medium=member_desktop)
@@ -16,6 +16,9 @@ Our Quantum Teleportation project marks the transition to multi-qubit circuits, 
 
 #### [4. Grover's and Shor's Algorithm 28/Jun/2024](https://www.linkedin.com/posts/jas-khetani_quantumcomputing-groversalgorithm-shorsalgorithm-activity-7212601504053047297-eGVo?utm_source=share&utm_medium=member_desktop)
 Description coming soon...
+
+### Current Campaign: Qiskit Global Summer School '24
+This was a 2-week IBM lead campaign to introduce and develop key skills for researchers in quantum computing and build an intermediate foundation for students on this platform. The campaign goes through 4 labs varying from topics like transpilation, Data Analysis, Error Suppression & Mitigation, and finally Simulating Nature at the Utility Scale.
 
 #### More Projects Coming Soon...
 
