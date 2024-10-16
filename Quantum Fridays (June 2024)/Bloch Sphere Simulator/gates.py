@@ -1,6 +1,6 @@
 # Created by: Jas Khetani
 # Concept Implemented: Single-Qubit Gates Calculation
-# Tech Stack used: Numpy
+# Tech Stack used: Python, Numpy
 
 import numpy as np
 
